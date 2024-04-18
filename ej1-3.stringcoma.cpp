@@ -9,6 +9,6 @@ int main(){
     cin>>palabra;
 
     if (palabra[pos] == ','){
-        
+
     }
 }
