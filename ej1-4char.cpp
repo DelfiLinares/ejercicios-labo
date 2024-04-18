@@ -15,10 +15,10 @@ int main(){
     int pos=largow-1;
     string nuevaWord ; 
 
-    while(pos>=0){
+    while(pos>=(largow-num)){
         nuevaWord = word[pos]+num ; 
         pos -- ;
     }
-    
+
     cout<<nuevaWord<<endl;
 }
