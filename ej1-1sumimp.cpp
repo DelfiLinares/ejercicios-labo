@@ -18,4 +18,5 @@ int main (){
         }
         imp ++ ;
     }
+    cout << "La suma de numeros impares es: "<<sumaimp<<endl;
 }
